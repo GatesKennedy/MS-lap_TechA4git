@@ -1,0 +1,9 @@
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll.config
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.pdb
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csprojResolveAssemblyReference.cache
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csproj.CoreCompileInputs.cache
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.dll
+c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.pdb
