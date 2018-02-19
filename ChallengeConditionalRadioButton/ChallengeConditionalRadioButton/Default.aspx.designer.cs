@@ -22,15 +22,6 @@ namespace ChallengeConditionalRadioButton {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// PencilRadioButton control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton PencilRadioButton;
-        
-        /// <summary>
         /// PenRadioButton control.
         /// </summary>
         /// <remarks>
@@ -38,6 +29,15 @@ namespace ChallengeConditionalRadioButton {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RadioButton PenRadioButton;
+        
+        /// <summary>
+        /// PencilRadioButton control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton PencilRadioButton;
         
         /// <summary>
         /// PhoneRadioButton control.
