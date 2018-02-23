@@ -1,9 +1,0 @@
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
-C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb

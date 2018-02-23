@@ -1,9 +1,0 @@
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll.config
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.dll
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\bin\MyFirstWebApp.pdb
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csprojResolveAssemblyReference.cache
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.csproj.CoreCompileInputs.cache
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.dll
-c:\users\gates\OneDrive\Documents\Conor\Visual_Studio\MyFirstWebApp\MyFirstWebApp\obj\Debug\MyFirstWebApp.pdb
