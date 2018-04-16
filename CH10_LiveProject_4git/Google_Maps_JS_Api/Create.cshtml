@@ -1,0 +1,53 @@
+@*
+    =================================================
+    ============= Start of Script Section ===========
+    =================================================   *@
+
+@* Google Maps API KEY: AIzaSyAuQaBzbJrduma-UhUFoWNyLWfJFoR3vac&libraries=places *@
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuQaBzbJrduma-UhUFoWNyLWfJFoR3vac&libraries=places&callback=initMap"
+        async defer></script>
+
+<script src="~/Scripts/Custom/CreateReviewsMap.js"></script>
+
+
+<script type="text/javascript">
+    //=====================================================================================================================================================
+    //=====================================================================================================================================================
+    //==================== Initialize Google Map Objects ==================================================================================================
+    //=====================================================================================================================================================
+    //=====================================================================================================================================================
+
+    console.log("Entered OBJECT CREATION Code Block \n");
+
+    var modelObjLat = @Html.Raw(Json.Encode(Model.Lat));
+    var modelObjLng = @Html.Raw(Json.Encode(Model.Lng));
+    var modelObjPlaceName = @Html.Raw(Json.Encode(Model.PlaceName));
+    var modelObjPlaceId = @Html.Raw(Json.Encode(Model.PlaceID));
+    console.log("Model Place Name: " + modelObjPlaceName);
+    console.log("Model Obj Lat: " + modelObjLat);
+    console.log("Model Obj Lng: " + modelObjLng);
+    console.log("Model Obj Place ID: " + modelObjPlaceId);
+
+</script>
+
+<!--==================================================================================================-->
+<!--==============================     Initialize Map     ============================================-->
+<!--==================================================================================================-->
+
+
+<script>
+    console.log("Enter Map Function Call Code Block (Create.cshtml) \n");
+    var LocationPassedIn = false;
+    if (modelObjPlaceId != null) {
+        console.log("Enter initMap() Function Call Location Passed-in");
+        LocationPassedIn = true;
+        initMap();
+    }
+    else if (modelObjPlaceId == null) {
+        console.log("Enter initMap() Function Call Location NOT Passed-in");
+        LocationPassedIn = false;
+        initMap();
+    }
+
+</script>
